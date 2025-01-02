@@ -1,0 +1,4 @@
+gtts == 2.4.5
+openai
+streamlit == 1.40.0
+audio-recorder-streamlit
